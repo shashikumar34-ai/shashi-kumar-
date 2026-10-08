@@ -1,0 +1,7 @@
+{
+  "name": "Shin-chan Feedback Express",
+  "description": "Interactive audience feedback with a 5-star rating system and animated Shin-chan reactions ranging from sad to joyful.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
